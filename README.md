@@ -1,2 +1,8 @@
 # activate-windows
-With one line command activate or install windows.......
+```shell
+irm https://massgrave.dev/get | iex
+```
+# software-install
+```shell
+irm "https://christitus.com/win" | iex
+```
